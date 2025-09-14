@@ -4,4 +4,4 @@
 vim.g.maplocalleader = ","
 
 local opt = vim.opt
-opt.wrap = ture
+opt.wrap = true
